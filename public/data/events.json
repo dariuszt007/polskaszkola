@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lesson-001",
+    "subjectId": "matematyka",
+    "title": "Matematyka",
+    "lessonDate": "2026-10-28",
+    "lessonStartTime": "16:00",
+    "lessonTimezone": "Europe/Warsaw",
+    "durationMinutes": 45,
+    "attendance": "present",
+    "reminders": [10, 39, 60],
+    "notes": "Powtórka działu 3"
+  },
+  {
+    "id": "lesson-002",
+    "subjectId": "angielski",
+    "title": "Angielski",
+    "lessonDate": "2026-10-29",
+    "lessonStartTime": "18:30",
+    "lessonTimezone": "Asia/Tokyo",
+    "durationMinutes": 45,
+    "attendance": "absent",
+    "reminders": [15, 60],
+    "notes": ""
+  }
+]
