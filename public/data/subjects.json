@@ -1,0 +1,14 @@
+[
+  {
+    "id": "matematyka",
+    "name": "Matematyka",
+    "color": "#3b82f6",
+    "plannedCount": 12
+  },
+  {
+    "id": "angielski",
+    "name": "Angielski",
+    "color": "#10b981",
+    "plannedCount": 8
+  }
+]
