@@ -1,0 +1,10 @@
+{
+  "defaultDurationMinutes": 45,
+  "defaultView": "timeGridWeek",
+  "availableTimezones": [
+    "Europe/Warsaw",
+    "Asia/Tokyo",
+    "Europe/London"
+  ],
+  "availableReminders": [5, 10, 15, 30, 39, 60, 1440]
+}
